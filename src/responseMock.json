@@ -1,0 +1,27 @@
+[
+    {
+      "mediaUrl": "https://example.com/images/news1.jpg",
+      "title": "Breaking News: Market Hits All-Time High",
+      "description": "The stock market reached unprecedented levels today, driven by strong earnings reports and investor optimism."
+    },
+    {
+      "mediaUrl": "https://example.com/images/news2.jpg",
+      "title": "Local Hero Saves Stranded Family",
+      "description": "A courageous individual rescued a family stranded during a flood, showcasing extraordinary bravery and selflessness."
+    },
+    {
+      "mediaUrl": "https://example.com/images/news3.jpg",
+      "title": "New Tech Gadget Revolutionizes Communication",
+      "description": "A groundbreaking device promises to change the way we communicate, offering faster and more efficient connectivity."
+    },
+    {
+      "mediaUrl": "https://example.com/images/news4.jpg",
+      "title": "Sports Update: Championship Finals Results",
+      "description": "The thrilling championship match concluded with a spectacular performance, leaving fans on the edge of their seats."
+    },
+    {
+      "mediaUrl": "https://example.com/images/news5.jpg",
+      "title": "Environment: Steps Toward a Greener Planet",
+      "description": "A new initiative aims to reduce carbon footprints and promote sustainable practices across industries."
+    }
+  ]
